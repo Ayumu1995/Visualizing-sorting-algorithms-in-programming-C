@@ -1,0 +1,11 @@
+# Compiled executables
+main
+
+# Debug symbol directory (macOS)
+*.dSYM/
+
+# Object files (if any)
+*.o
+
+# Other common build artifacts
+*.exe
